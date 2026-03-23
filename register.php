@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
+    <link rel="stylesheet" href="style.css">
 <body>
 <h2>Register</h2>
+
 
 <form method="POST" action="register.php">
     Email: <input type="email" name="email" required><br><br>
